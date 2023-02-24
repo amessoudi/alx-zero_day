@@ -1,1 +1,3 @@
 My first readme
+I hope this is what it has been asked from me by the course when they say "Update README.MD file from the Github interface"
+Anyway we'll see...
